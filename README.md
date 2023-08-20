@@ -1,5 +1,6 @@
 # Astro Blog Site
-## Demo 1 - adding the simple page layout
+
+## Demo 2 - Added Navigation and Styling
 
 ## Astro Starter Kit: Minimal
 
