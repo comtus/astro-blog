@@ -1,4 +1,7 @@
-# Astro Starter Kit: Minimal
+# Astro Blog Site
+## Demo 1 - adding the simple page layout
+
+## Astro Starter Kit: Minimal
 
 ```
 npm create astro@latest -- --template minimal
